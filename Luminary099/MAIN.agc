@@ -67,8 +67,7 @@
 # referenced to page numbers) created by GAP, but not duplicated by yaYUL, so it's
 # still valuable even if the source-files listed below are at hand.
 
-$CONTRACT_AND_APPROVALS.agc			# p. 1
-$ASSEMBLY_AND_OPERATION_INFORMATION.agc		# pp. 2-27
+$ASSEMBLY_AND_OPERATION_INFORMATION.agc		# pp. 1-27
 $TAGS_FOR_RELATIVE_SETLOC.agc			# pp. 28-37
 $CONTROLLED_CONSTANTS.agc			# pp. 38-53
 $INPUT_OUTPUT_CHANNEL_BIT_DESCRIPTIONS.agc	# pp. 54-60
@@ -77,7 +76,7 @@ $FLAGWORD_ASSIGNMENTS.agc			# pp. 61-88
 $ERASABLE_ASSIGNMENTS.agc			# pp. 90-152
 $INTERRUPT_LEAD_INS.agc				# pp. 153-154
 $T4RUPT_PROGRAM.agc				# pp. 155-189
-$RCS_FAILURE_MONITOR.agc				# pp. 190-192
+$RCS_FAILURE_MONITOR.agc			# pp. 190-192
 $DOWNLINK_LISTS.agc				# pp. 193-205
 $AGS_INITIALIZATION.agc				# pp. 206-210
 $FRESH_START_AND_RESTART.agc			# pp. 211-237
